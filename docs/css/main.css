@@ -1,0 +1,40 @@
+html {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    line-height: 61px;
+
+}
+
+#wrapper {
+    width: 1208px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    text-align: center;
+}
+
+h1 {
+    font-size: 200%;
+}
+h2 {
+    font-size: 180%;
+}
+h3 {
+    font-size: 160%;
+}
+
+menu {
+    padding-left: 0px;
+}
+menu li {
+    display: inline;
+}
+body
+{
+
+    background-image:url(https://twimg0-a.akamaihd.net/a/1350072692/t1/img/front_page/jp-mountain@2x.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+}
